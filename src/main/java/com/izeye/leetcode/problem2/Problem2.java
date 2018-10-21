@@ -1,7 +1,8 @@
 package com.izeye.leetcode.problem2;
 
 /**
- * 2. Add Two Numbers.
+ * 2. Add Two Numbers
+ *
  * See https://leetcode.com/problems/add-two-numbers/
  *
  * @author Johnny Lim
